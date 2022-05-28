@@ -1,0 +1,37 @@
+@media (max-width: 950px){
+	.hasib-1{
+		padding: 10px 10%;
+	}
+	.hasib-2{
+		padding: 10px 10%;
+	}
+}
+@media (max-width: 710px){
+	.hasib-1{
+		padding: 10px 5%;
+	}
+	.hasib-2{
+		padding: 10px 5%;
+	}
+	button{
+		font-size: 16px;
+		padding: 10px 10px;
+	}
+	.work-nav ul li {
+		font-size: 12px;
+	}
+	.work-content .contents p{
+		font-size: 12px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
